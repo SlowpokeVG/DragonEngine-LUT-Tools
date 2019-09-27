@@ -12,4 +12,4 @@ Alternatively you can download a package that contains pre-converted LUT files a
 
 # 2. Apply LUTs to the specific screenshot without any LUTs:
 
-LexusLUTApplier.js 'folder with PNG LUT files' 'screenshot'
+LexusLUTApplier.exe 'folder with PNG LUT files' 'screenshot'
