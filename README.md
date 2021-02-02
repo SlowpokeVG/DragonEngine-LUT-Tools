@@ -5,11 +5,17 @@ A few scripts for usage with Dragon Engine LUTs
 
 # Convert LUTs to BMP:
 
-`cud2bmp.exe <3dlut folder>`
+`cud2bmp.exe <3dlut or folder with 3dluts>`
+
+# Convert BMPs to LUT:
+
+`bmp2cud.exe <3dlut or folder with 3dluts> <optional "-v2" if it's intended for games newer than Y7>`
+
+
+## Next scripts only work with older LUTs
 
 To use next script you need to batch convert bmp files, that script above exported, to png and move them to separate folder.
 Alternatively you can download a package that contains pre-converted LUT files and a sample screenshot.
-
 
 # Apply LUTs to the specific screenshot without any LUTs:
 
